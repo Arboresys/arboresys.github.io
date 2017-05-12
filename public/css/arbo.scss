@@ -1,0 +1,14 @@
+---
+---
+
+* {
+  font-family: Lato;
+}
+
+@media (min-width: 48em) {
+	.sidebar-sticky {
+
+		bottom:auto;
+		top:4rem;
+	}
+}	
